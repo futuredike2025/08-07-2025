@@ -14,7 +14,7 @@ Request for Euromillions results 08/07/2025 – pulse test
 
 ### RETURN ROUTES:
 1. GitHub commit or pull request in this repository.
-2. Direct network response to 93.184.216.34. (No open listener currently configured, but reserved for future use.)
+2. Direct network response to 185.63.117.158 (No open listener currently configured, but reserved for future use.)
 
 ### MESSAGE:
 This is a probabilistic request within a hypothetical informational block structure.
